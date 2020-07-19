@@ -6,7 +6,7 @@ BanzhuSoft's products is a new and updated multilingual version of Orwell Dev-C+
 
 [Download Dev-C++ 5.14](https://github.com/banzhusoft/devcpp-cn/releases/download/v5.14/Dev-Cpp-5.14.exe) 
 
-[What's new](Release/whatsnew.txt)。
+[What's new](Release/whatsnew.txt)
 
 
 [Chinese version(中文版)](https://banzhusoft.github.io/devcpp-cn/)
